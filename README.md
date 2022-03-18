@@ -1,2 +1,2 @@
 # competenciaML
-Competencia de materia de Machine Learniing
+Competencia de materia de Machine Learning

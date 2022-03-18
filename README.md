@@ -1,2 +1,5 @@
-# competenciaML
-Competencia de materia de Machine Learniing
+# Competencia de materia de Machine Learning:
+
+La quiebra es el resultado de una condición crónica que ocurre cuando el valor total de los pasivos de una compañía excede el valor de sus activos totales. Por lo tanto, saber de antemano cuándo una empresa se va a ir a la quiebra es información importante que impacta en muchos problemas de toma de decisiones empresariales. La predicción de la quiebra ha sido un problema importante para banqueros, inversionistas, administradores de activos, auditores y académicos. En particular, para las instituciones financieras, la quiebra tiene un impacto significativo en sus decisiones de préstamo y rentabilidad.
+Por lo anterior, el proyecto del curso consiste en para predecir si una empresa entrará en bancarrota o no al año siguiente, utilizando una serie de métricas financieras como variables predictoras. Predecir esto, como se estableció anteriormente, permite planear de mejor manera los préstamos que ofrecen entidades financieras a diferentes compañías.
+
